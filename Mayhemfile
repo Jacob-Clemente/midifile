@@ -1,0 +1,5 @@
+project: midifile
+target: miditime
+
+cmds:
+  - cmd: /miditime @@
